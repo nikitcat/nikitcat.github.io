@@ -1,3 +1,6 @@
 
+= Собрание pet проектов
 
-(xref:start.adoc[Сервис работы с задачами]).
+1. https://nikitcat.github.io/requirements.github.io/[Спецификация требований к мобильному приложению Котограмм]
+
+2. xref:start.adoc[Сервис работы с задачами описание HTTP сервера]
